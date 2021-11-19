@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d-godfather
-- 👀 Cybersecurity
+- 👀 InfoSec | Cybersecurity
 - 🌱 currently learning Python, C++, and Networking
 - 💞️ interested in incident response, scripting, threat hunting, and forensics
 - 📫 https://github.com/d-godfather
